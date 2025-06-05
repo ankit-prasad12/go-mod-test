@@ -1,3 +1,3 @@
-module github.com/ankit-prasad12/go-mod-test
+module github.com/ankit-prasad12/hello-world
 
 go 1.24.2
